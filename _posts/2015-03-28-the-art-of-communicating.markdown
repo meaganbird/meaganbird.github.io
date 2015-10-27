@@ -4,9 +4,11 @@ date: 2015-10-17
 description: 'Compassion and clear purpose for the win'
 ---
 
-I recently read Thich Nhat Hanh’s [http://www.amazon.com/gp/product/1846044006?ie=UTF8&camp=213733&creative=393177&creativeASIN=1846044006&linkCode=shr&tag=swelcont-20](The Art of Communicating). As he talks about compassion and communicating clearly, he says: 
+I recently read Thich Nhat Hanh’s [The Art of Communicating](http://www.amazon.com/gp/product/1846044006?ie=UTF8&camp=213733&creative=393177&creativeASIN=1846044006&linkCode=shr&tag=swelcont-20). As he talks about compassion and communicating clearly, he says:
+
 
 > When we think, when we speak, when we act, we create — and we are there in our creations. That is the outcome of our being… Our thoughts, speech, and actions are our real continuation.
+
 
 I love this idea; the decisions that you make as a writer matter, even when your work is fragile or temporary. Language has a rippling effect. A thought bubbles up in the author’s mind, comes out as words, and sparks something in the reader. 
 
@@ -16,10 +18,12 @@ Communication is ultimately about caring and showing that you care. Online, it�
 
 Hanh outlines four bodhisattva guidelines for gentle, loving speech:
 
+
 - Tell the truth. Don’t lie or turn the truth upside down.
 - Don’t exaggerate.
 - Be consistent. This means no double-talk.
 - Use peaceful language. Don’t use insulting or violent words, cruel speech, verbal abuse, or condemnation.
+
 
 The first three fit right into a style guide, with a little editing and elaboration. Hanh discusses technology and its role in our lives while weaving in his own religious values. I definitely recommend reading the book, even if you’re not interested in Buddhist teachings. Maybe a good one to check out from the library?
 
