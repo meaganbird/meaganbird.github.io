@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Meagan Bird
+description: ramblings and musing 
+meta_description: "Meagan Bird blog"
 
 aboutPage: true
 
@@ -9,15 +9,16 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://meaganbird.com'
+google_analytics: 'UA-69349863-1'
+
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://blog.meaganbird.com'
+author:         'Meagan Bird'
+authorTwitter:  '@megchirp'
 
 permalink:       /:year/:title/
 
