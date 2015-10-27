@@ -18,8 +18,10 @@ When I think about my trail on my amazon prime membership, I can see the strings
 {% highlight javascript linenos %}
 {name} searched for {product}.
 {name} requested a return for {product} from {vendor}.
-{name}, located in {place} might also enjoy {product} + {product}.
+{name}, located in {place} might also enjoy {product} 
++ {product}.
 {name} is reading about {product} | {vendor}.
-{name} accessed the site from {server} on {date} and {time} with an IP address of {ip_address}.
+{name} accessed the site from {server} on {date} and 
+{time} with an IP address of {ip_address}.
 {name} spent {duration} reading about {product}.
 {% endhighlight %}
