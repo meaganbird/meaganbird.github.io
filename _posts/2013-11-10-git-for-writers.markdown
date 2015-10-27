@@ -1,6 +1,6 @@
 ---
 title:  "Using Git and Github as a Writer"
-date:   2013-11-10 10:18:00
+date:   2014-11-10 10:18:00
 description: Why scrum writers need to figure it out
 ---
 
