@@ -281,6 +281,10 @@ p.small {
 blockquote {
 	padding-left: 15px;
 	border-left: 3px solid #eee;
+    	max-width: 350px;
+    	font-size: 14px;
+	margin: 1em auto .350em auto;
+    	float: none;
 }
 
 hr {
