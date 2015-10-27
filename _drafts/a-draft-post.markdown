@@ -1,6 +1,6 @@
 ---
-title:  "A Draft Post"
-description: Work in progress
+title:  "Why You Sound Like a Robot"
+description: \*Insert Siri voice here*
 ## date: add a date when publishing
 ---
 
