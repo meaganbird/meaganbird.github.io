@@ -1,1 +1,0 @@
-People read differently online: they scan. They're trying to find information quickly. Writing with this goal in mind makes a website more appealing, and makes customers more likely to visit more often and buy products and services. 
